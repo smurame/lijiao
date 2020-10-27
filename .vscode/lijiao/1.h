@@ -1,7 +1,10 @@
 #include<stdio.h>
-#include<str.h>
+#include<stdlib.h>
 int main()
 {
-    printf("hellow world!");
+    int a,b,c;
+    c=a+b;
     return 0;
 }
+
+
