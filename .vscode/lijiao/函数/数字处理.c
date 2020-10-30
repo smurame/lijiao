@@ -1,7 +1,8 @@
 #include<stdio.h>
 int f(int a)
 {
-    int 
+    int a;
+    int b;
 
 
 }
